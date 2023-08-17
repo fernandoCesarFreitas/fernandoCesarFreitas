@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fernando Cesar Haupenthal de Freitas
 - Starting the journey in the area of ​​programming.
 - 👀 I’m interested in ...
--   Exploring the world of programming to turn ideas into reality through lines of code.
+-   Explore the world of programming to turn ideas into reality through lines of code.
 - 🌱 I’m currently learning ...
 -   Learning TypeScript.
 - 📫 How to reach me
